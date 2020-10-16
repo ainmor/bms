@@ -44,7 +44,66 @@
             <param name="id"></param>
             <returns>An Author's record</returns>
         </member>
+        <member name="M:BookStore.API.Controllers.AuthorsController.GetControllerActionNames">
+            <summary>
+            Gives access to which controller and which action has taken place
+            </summary>
+            <returns>returns string value of the controller and action</returns>
+        </member>
         <member name="M:BookStore.API.Controllers.AuthorsController.InternalError(System.String)">
+            <summary>
+            Logs and Return Internal Error
+            </summary>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BookStore.API.Controllers.BooksController">
+            <summary>
+            Interacts with the Books Table
+            </summary>
+        </member>
+        <member name="M:BookStore.API.Controllers.BooksController.GetBooks">
+            <summary>
+            Get All Books
+            </summary>
+            <returns>List Of Books</returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.BooksController.GetBook(System.Int32)">
+            <summary>
+            Get a Book By an Id
+            </summary>
+            <param name="id"></param>
+            <returns>A book record</returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.BooksController.Create(BookStore.API.DTOs.BookCreateDTO)">
+            <summary>
+            Creates A New Book
+            </summary>
+            <param name="bookDTO"></param>
+            <returns>Book Created</returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.BooksController.Update(System.Int32,BookStore.API.DTOs.BookUpdateDTO)">
+            <summary>
+            Updates A Book
+            </summary>
+            <param name="id"></param>
+            <param name="bookDTO"></param>
+            <returns>Book Created</returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.BooksController.Delete(System.Int32)">
+            <summary>
+            Delete A Book by Id
+            </summary>
+            <param name="id"></param>
+            <returns>A Book's record deletion</returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.BooksController.GetControllerActionNames">
+            <summary>
+            Gives access to which controller and which action has taken place
+            </summary>
+            <returns>returns string value of the controller and action</returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.BooksController.InternalError(System.String)">
             <summary>
             Logs and Return Internal Error
             </summary>
