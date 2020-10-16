@@ -1,0 +1,35 @@
+2020-10-16 10:59:23.7740 INFO Attempted Get All Authors
+2020-10-16 10:59:26.3976 INFO Successfully got all Authors
+2020-10-16 11:01:37.6692 INFO Attempted Get All Authors
+2020-10-16 11:01:54.4999 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) - System.ComponentModel.Win32Exception (53): The network path was not found.
+2020-10-16 11:02:06.3436 INFO Attempted Get All Authors
+2020-10-16 11:02:21.7765 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) - System.ComponentModel.Win32Exception (53): The network path was not found.
+2020-10-16 11:15:01.4152 INFO Attempted Get Author with id:1
+2020-10-16 11:15:11.4301 WARN Author with id:1 was not found
+2020-10-16 11:40:57.0397 INFO Author submission Attempted
+2020-10-16 11:41:04.9598 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore.API.Data.Author - 
+2020-10-16 11:43:01.1970 INFO Author submission Attempted
+2020-10-16 11:43:03.3115 INFO Author Created
+2020-10-16 11:43:47.0362 INFO Author submission Attempted
+2020-10-16 11:43:47.0970 INFO Author Created
+2020-10-16 12:03:44.7624 INFO Author with id: 1 Update Attempted
+2020-10-16 12:37:01.4419 WARN Author data was incomplete
+2020-10-16 12:37:13.2489 INFO Author with id: 1 Update Attempted
+2020-10-16 12:37:13.2489 WARN Author data was incomplete
+2020-10-16 12:40:44.2630 INFO Author with id: 1 Update Attempted
+2020-10-16 12:41:08.3399 INFO Attempted Get Author with id:1
+2020-10-16 12:41:08.9580 INFO Successfully got author with id:1
+2020-10-16 12:50:53.2948 INFO Attempted Get All Authors
+2020-10-16 12:50:54.4901 INFO Successfully got all Authors
+2020-10-16 13:00:33.2165 INFO Author with id: 1 Delete Attempted
+2020-10-16 13:00:34.6563 WARN Author with id: 1 successfully deleted
+2020-10-16 13:00:43.8399 INFO Attempted Get All Authors
+2020-10-16 13:00:43.9203 INFO Successfully got all Authors
+2020-10-16 13:00:55.6963 INFO Attempted Get Author with id:1
+2020-10-16 13:00:55.7243 WARN Author with id:1 was not found
+2020-10-16 13:01:21.0424 INFO Author with id: 1 Update Attempted
+2020-10-16 13:01:21.2759 ERROR Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions. - 

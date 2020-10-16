@@ -79,7 +79,8 @@ D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\bin\Deb
 D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\bin\Debug\netcoreapp3.1\nlog.config
 D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\bin\Debug\netcoreapp3.1\NLog.dll
 D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\obj\Debug\netcoreapp3.1\BookStore.API.csproj.CoreCompileInputs.cache
 D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\obj\Debug\netcoreapp3.1\BookStore.API.MvcApplicationPartsAssemblyInfo.cs
 D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\obj\Debug\netcoreapp3.1\BookStore.API.MvcApplicationPartsAssemblyInfo.cache
-D:\programming\aspnet\bmsaspnetblazor\BookManagementSystem\BookStore.API\obj\Debug\netcoreapp3.1\BookStore.API.csprojAssemblyReference.cache
