@@ -141,3 +141,52 @@ Error Number:547,State:0,Class:16
 2020-10-16 17:55:47.6204 INFO Books - Delete: Record with id: 3 successfully deleted
 2020-10-16 17:55:56.6882 INFO Books - GetBooks: Attempted Get All Books
 2020-10-16 17:55:56.6882 INFO Books - GetBooks: Successfully got all Books
+2020-10-16 22:11:27.6327 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:11:27.8179 INFO Users - Login: admin Not Authenticated
+2020-10-16 22:13:44.1800 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:13:44.2811 INFO Users - Login: admin Not Authenticated
+2020-10-16 22:14:59.8461 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:17:56.6403 INFO Users - Login: admin Not Authenticated
+2020-10-16 22:19:29.3053 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:19:39.0686 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 22:26:35.1166 INFO Authors - GetAuthors: Attempted call
+2020-10-16 22:26:35.2383 INFO Authors - GetAuthors: Successful
+2020-10-16 22:26:46.5691 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-16 22:26:46.6233 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-16 22:28:45.2263 INFO Users - Login: Login Attempt from user: customer1
+2020-10-16 22:28:50.7572 INFO Users - Login: customer1 Successfully Authenticated
+2020-10-16 22:30:40.6007 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:30:40.6751 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 22:34:31.0540 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:34:31.2781 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 22:36:59.7883 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:37:00.0269 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 22:39:20.4146 INFO Authors - Create: Create Attempted
+2020-10-16 22:39:20.7225 INFO Authors - Create: Author Created
+2020-10-16 22:39:20.7297 INFO Authors - Create: BookStore.API.Data.Author
+2020-10-16 22:48:57.6152 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:48:57.8644 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 22:50:21.5274 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:50:21.5954 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 22:52:15.0911 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 22:52:15.1307 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 23:09:04.2723 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 23:09:04.5451 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 23:12:56.7724 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 23:12:56.9407 INFO Users - Login: admin Not Authenticated
+2020-10-16 23:23:02.1001 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 23:23:02.3369 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 23:23:38.0316 INFO Authors - Create: Create Attempted
+2020-10-16 23:23:38.2501 INFO Authors - Create: Author Created
+2020-10-16 23:23:38.2501 INFO Authors - Create: BookStore.API.Data.Author
+2020-10-16 23:26:37.3300 INFO Authors - Create: Create Attempted
+2020-10-16 23:26:37.3576 INFO Authors - Create: Author Created
+2020-10-16 23:26:37.3576 INFO Authors - Create: BookStore.API.Data.Author
+2020-10-16 23:27:46.6314 INFO Users - Login: Login Attempt from user: admin
+2020-10-16 23:27:47.0233 INFO Users - Login: admin Successfully Authenticated
+2020-10-16 23:28:21.9062 INFO Authors - Create: Create Attempted
+2020-10-16 23:28:22.1530 INFO Authors - Create: Author Created
+2020-10-16 23:28:22.1530 INFO Authors - Create: BookStore.API.Data.Author
+2020-10-16 23:36:17.1221 INFO Authors - Create: Create Attempted
+2020-10-16 23:36:17.1646 INFO Authors - Create: Author Created
+2020-10-16 23:36:17.1646 INFO Authors - Create: BookStore.API.Data.Author

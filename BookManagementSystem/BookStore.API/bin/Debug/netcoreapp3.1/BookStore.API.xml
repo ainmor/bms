@@ -147,5 +147,32 @@
             </summary>
             <param name="id"></param>
         </member>
+        <member name="M:BookStore.API.Controllers.UsersController.Register(BookStore.API.DTOs.UserDTO)">
+            <summary>
+            User Registration Endpoint
+            </summary>
+            <param name="userDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.UsersController.Login(BookStore.API.DTOs.UserDTO)">
+            <summary>
+            User Login Endpoint
+            </summary>
+            <param name="userDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.UsersController.GetControllerActionNames">
+            <summary>
+            Gives access to which controller and which action has taken place
+            </summary>
+            <returns>returns string value of the controller and action</returns>
+        </member>
+        <member name="M:BookStore.API.Controllers.UsersController.InternalError(System.String)">
+            <summary>
+            Logs and Return Internal Error
+            </summary>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>

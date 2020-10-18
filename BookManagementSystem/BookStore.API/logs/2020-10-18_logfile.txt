@@ -1,0 +1,258 @@
+2020-10-18 09:59:16.3837 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 09:59:16.5949 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 09:59:16.5949 INFO Users - Login: Generating Token
+2020-10-18 09:59:19.2515 INFO Authors - GetAuthors: Attempted call
+2020-10-18 09:59:19.3291 INFO Authors - GetAuthors: Successful
+2020-10-18 09:59:21.8372 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 09:59:21.8733 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 10:03:47.3686 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:03:47.5233 INFO Authors - GetAuthors: Successful
+2020-10-18 10:03:49.6479 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 10:03:49.6987 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 10:04:16.4814 INFO Authors - Update: Update Attempted on record with id: 2
+2020-10-18 10:04:16.7121 INFO Authors - Update: Record with id: 2 successfully updated
+2020-10-18 10:04:22.7670 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:04:22.7670 INFO Authors - GetAuthors: Successful
+2020-10-18 10:04:28.4203 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 10:04:28.4348 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 10:05:53.4170 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:05:53.7357 INFO Authors - GetAuthors: Successful
+2020-10-18 10:05:56.1367 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 10:05:56.2138 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 10:05:59.0087 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:05:59.0087 INFO Authors - GetAuthors: Successful
+2020-10-18 10:05:59.9936 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 10:06:00.0053 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 10:06:05.9472 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:06:05.9472 INFO Authors - GetAuthors: Successful
+2020-10-18 10:06:05.9879 INFO Authors - Update: Update Attempted on record with id: 2
+2020-10-18 10:06:06.2678 INFO Authors - Update: Record with id: 2 successfully updated
+2020-10-18 10:06:30.0174 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 10:06:30.0388 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 10:06:34.1224 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:06:34.1224 INFO Authors - Update: Update Attempted on record with id: 2
+2020-10-18 10:06:34.1499 INFO Authors - GetAuthors: Successful
+2020-10-18 10:06:34.1838 INFO Authors - Update: Record with id: 2 successfully updated
+2020-10-18 10:06:37.8019 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 10:06:37.8186 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 10:06:42.7342 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:06:42.7342 INFO Authors - GetAuthors: Successful
+2020-10-18 10:21:12.2599 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 10:21:12.6236 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 10:21:12.6236 INFO Users - Login: Generating Token
+2020-10-18 10:21:12.8429 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 10:21:12.8854 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 10:21:12.8854 INFO Users - Login: Generating Token
+2020-10-18 10:21:15.2531 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:21:15.3457 INFO Authors - GetAuthors: Successful
+2020-10-18 10:21:22.4480 INFO Authors - GetAuthor: Attempted Get Author with id: 8
+2020-10-18 10:21:22.4795 INFO Authors - GetAuthor: Successfully got record with id:8
+2020-10-18 10:23:03.2239 INFO Users - Login: Login Attempt from user: admin@bookstore.com
+2020-10-18 10:23:03.2416 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-10-18 10:23:17.7785 INFO Users - Login: Login Attempt from user: admin@bookstore.com
+2020-10-18 10:23:17.7785 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-10-18 10:23:19.1825 INFO Users - Login: Login Attempt from user: admin@bookstore.com
+2020-10-18 10:23:19.1825 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-10-18 10:23:39.2304 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 10:23:39.2462 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 10:23:40.9669 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 10:23:40.9669 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 10:23:55.3124 INFO Users - Login: Login Attempt from user: taj@bookstore.com
+2020-10-18 10:23:55.3543 INFO Users - Login: taj@bookstore.com Successfully Authenticated
+2020-10-18 10:23:55.3543 INFO Users - Login: Generating Token
+2020-10-18 10:24:42.4021 INFO Users - Register: Registration Attempt for umesh@gmail.com
+2020-10-18 10:24:56.4391 INFO Users - Login: Login Attempt from user: umesh@gmail.com
+2020-10-18 10:24:56.4702 INFO Users - Login: umesh@gmail.com Successfully Authenticated
+2020-10-18 10:24:56.4702 INFO Users - Login: Generating Token
+2020-10-18 10:24:58.1784 INFO Authors - GetAuthors: Attempted call
+2020-10-18 10:24:58.1865 INFO Authors - GetAuthors: Successful
+2020-10-18 10:24:59.9211 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 10:24:59.9211 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 11:41:01.5144 INFO Users - Login: Login Attempt from user: umesh@gmail.com
+2020-10-18 11:41:01.7554 INFO Users - Login: umesh@gmail.com Successfully Authenticated
+2020-10-18 11:41:01.7554 INFO Users - Login: Generating Token
+2020-10-18 11:44:07.0636 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 11:44:07.0946 INFO Users - Login: meghana@bookstore.com Not Authenticated
+2020-10-18 11:44:15.5562 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 11:44:15.5734 INFO Users - Login: meghana@bookstore.com Not Authenticated
+2020-10-18 11:44:22.3037 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 11:44:22.3479 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 11:44:22.3479 INFO Users - Login: Generating Token
+2020-10-18 11:44:25.8466 INFO Authors - GetAuthors: Attempted call
+2020-10-18 11:44:25.9018 INFO Authors - GetAuthors: Successful
+2020-10-18 11:44:35.8839 INFO Authors - GetAuthor: Attempted Get Author with id: 8
+2020-10-18 11:44:35.9129 INFO Authors - GetAuthor: Successfully got record with id:8
+2020-10-18 11:44:41.9075 INFO Authors - Delete: Delete Attempted on record with id: 8
+2020-10-18 11:44:42.0410 INFO Authors - Delete: Record with id: 8 successfully deleted
+2020-10-18 11:44:44.9956 INFO Authors - GetAuthors: Attempted call
+2020-10-18 11:44:45.0014 INFO Authors - GetAuthors: Successful
+2020-10-18 11:44:59.7231 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 11:44:59.7389 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 11:45:11.1437 INFO Authors - Update: Update Attempted on record with id: 2
+2020-10-18 11:45:11.1680 INFO Authors - Update: Record with id: 2 successfully updated
+2020-10-18 11:45:11.1863 INFO Authors - GetAuthors: Attempted call
+2020-10-18 11:45:11.1863 INFO Authors - GetAuthors: Successful
+2020-10-18 11:45:14.6271 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 11:45:14.6271 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 12:09:46.7951 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 12:09:47.0173 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 12:09:47.0173 INFO Users - Login: Generating Token
+2020-10-18 12:09:51.5561 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:09:51.6101 INFO Authors - GetAuthors: Successful
+2020-10-18 12:10:55.3160 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:10:55.3312 INFO Authors - GetAuthors: Successful
+2020-10-18 12:10:59.7623 INFO Authors - GetAuthor: Attempted Get Author with id: 7
+2020-10-18 12:10:59.7899 INFO Authors - GetAuthor: Successfully got record with id:7
+2020-10-18 12:11:00.9451 INFO Authors - Delete: Delete Attempted on record with id: 7
+2020-10-18 12:11:01.1001 INFO Authors - Delete: Record with id: 7 successfully deleted
+2020-10-18 12:11:01.1215 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:11:01.1242 INFO Authors - GetAuthors: Successful
+2020-10-18 12:14:12.7481 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:14:12.9077 INFO Authors - GetAuthors: Successful
+2020-10-18 12:14:30.2891 INFO Authors - Create: Create Attempted
+2020-10-18 12:14:37.2531 INFO Authors - Create: Author Created
+2020-10-18 12:14:37.9276 INFO Authors - Create: BookStore.API.Data.Author
+2020-10-18 12:14:41.2830 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:14:41.2830 INFO Authors - GetAuthors: Successful
+2020-10-18 12:43:51.3279 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:43:51.5889 INFO Authors - GetAuthors: Successful
+2020-10-18 12:44:06.7709 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:44:06.7871 INFO Authors - GetAuthors: Successful
+2020-10-18 12:45:36.3570 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:45:36.5552 INFO Authors - GetAuthors: Successful
+2020-10-18 12:46:34.6713 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:46:34.8271 INFO Authors - GetAuthors: Successful
+2020-10-18 12:46:40.0756 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 12:46:40.1207 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 12:46:42.9689 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:46:42.9689 INFO Authors - GetAuthors: Successful
+2020-10-18 12:46:42.9925 INFO Authors - Update: Update Attempted on record with id: 2
+2020-10-18 12:46:43.1285 INFO Authors - Update: Record with id: 2 successfully updated
+2020-10-18 12:46:46.0641 INFO Authors - GetAuthor: Attempted Get Author with id: 3
+2020-10-18 12:46:46.0641 INFO Authors - GetAuthor: Successfully got record with id:3
+2020-10-18 12:46:50.3058 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:46:50.3058 INFO Authors - Update: Update Attempted on record with id: 3
+2020-10-18 12:46:50.3209 INFO Authors - GetAuthors: Successful
+2020-10-18 12:46:50.3360 INFO Authors - Update: Record with id: 3 successfully updated
+2020-10-18 12:46:52.8375 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 12:46:52.8492 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 12:47:02.8869 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:47:02.8930 INFO Authors - GetAuthors: Successful
+2020-10-18 12:47:05.8168 INFO Authors - GetAuthor: Attempted Get Author with id: 3
+2020-10-18 12:47:05.8168 INFO Authors - GetAuthor: Successfully got record with id:3
+2020-10-18 12:57:24.0171 INFO Authors - GetAuthors: Attempted call
+2020-10-18 12:57:24.4691 INFO Authors - GetAuthors: Successful
+2020-10-18 12:57:39.2438 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 12:57:39.3709 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 12:57:39.3748 INFO Users - Login: Generating Token
+2020-10-18 12:57:56.3488 INFO Users - Login: Login Attempt from user: umesh@gmail.com
+2020-10-18 12:57:56.3770 INFO Users - Login: umesh@gmail.com Successfully Authenticated
+2020-10-18 12:57:56.3770 INFO Users - Login: Generating Token
+2020-10-18 12:58:38.5859 INFO Users - Login: Login Attempt from user: admin@bookstore.com
+2020-10-18 12:58:38.5988 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-10-18 12:59:14.5735 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 12:59:14.5987 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 12:59:16.4832 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 12:59:16.4832 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 13:07:18.4780 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 13:07:18.5082 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 13:07:20.0060 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 13:07:20.0060 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 13:07:49.7486 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 13:07:49.7486 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 13:07:59.1053 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 13:07:59.1168 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 13:08:00.2833 INFO Users - Login: Login Attempt from user: customer1@bookstore.com
+2020-10-18 13:08:00.2833 INFO Users - Login: customer1@bookstore.com Not Authenticated
+2020-10-18 13:12:43.8570 INFO Users - Login: Login Attempt from user: umesh@gmail.com
+2020-10-18 13:12:44.0603 INFO Users - Login: umesh@gmail.com Successfully Authenticated
+2020-10-18 13:12:44.0608 INFO Users - Login: Generating Token
+2020-10-18 13:13:17.6436 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 13:13:17.6853 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 13:13:17.6853 INFO Users - Login: Generating Token
+2020-10-18 13:13:20.2028 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:13:20.3086 INFO Authors - GetAuthors: Successful
+2020-10-18 13:17:03.0762 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:17:03.3053 INFO Authors - GetAuthors: Successful
+2020-10-18 13:17:05.2760 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 13:17:05.3323 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 13:17:09.8094 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:17:09.8187 INFO Authors - GetAuthors: Successful
+2020-10-18 13:17:11.2646 INFO Authors - GetAuthor: Attempted Get Author with id: 3
+2020-10-18 13:17:11.2646 INFO Authors - GetAuthor: Successfully got record with id:3
+2020-10-18 13:17:12.4889 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:17:12.4889 INFO Authors - GetAuthors: Successful
+2020-10-18 13:17:13.3833 INFO Authors - GetAuthor: Attempted Get Author with id: 4
+2020-10-18 13:17:13.3910 INFO Authors - GetAuthor: Successfully got record with id:4
+2020-10-18 13:17:14.2217 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:17:14.2217 INFO Authors - GetAuthors: Successful
+2020-10-18 13:17:15.1858 INFO Authors - GetAuthor: Attempted Get Author with id: 5
+2020-10-18 13:17:15.1858 INFO Authors - GetAuthor: Successfully got record with id:5
+2020-10-18 13:17:16.0425 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:17:16.0538 INFO Authors - GetAuthors: Successful
+2020-10-18 13:17:17.1945 INFO Authors - GetAuthor: Attempted Get Author with id: 6
+2020-10-18 13:17:17.2051 INFO Authors - GetAuthor: Successfully got record with id:6
+2020-10-18 13:17:18.0356 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:17:18.0356 INFO Authors - GetAuthors: Successful
+2020-10-18 13:17:18.9886 INFO Authors - GetAuthor: Attempted Get Author with id: 9
+2020-10-18 13:17:18.9886 INFO Authors - GetAuthor: Successfully got record with id:9
+2020-10-18 13:17:32.9960 INFO Users - Login: Login Attempt from user: umesh@gmail.com
+2020-10-18 13:17:33.1132 INFO Users - Login: umesh@gmail.com Successfully Authenticated
+2020-10-18 13:17:33.1132 INFO Users - Login: Generating Token
+2020-10-18 13:17:55.8762 INFO Users - Login: Login Attempt from user: taj@bookstore.com
+2020-10-18 13:17:55.8987 INFO Users - Login: taj@bookstore.com Successfully Authenticated
+2020-10-18 13:17:55.9048 INFO Users - Login: Generating Token
+2020-10-18 13:19:08.9107 INFO Users - Register: Registration Attempt for arvind@bookstore.com
+2020-10-18 13:19:17.8479 INFO Users - Login: Login Attempt from user: arvind@bookstore.com
+2020-10-18 13:19:17.8757 INFO Users - Login: arvind@bookstore.com Successfully Authenticated
+2020-10-18 13:19:17.8757 INFO Users - Login: Generating Token
+2020-10-18 13:19:19.2354 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:19.2354 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:20.9368 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 13:19:20.9368 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 13:19:32.5360 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:32.5360 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:33.8752 INFO Authors - GetAuthor: Attempted Get Author with id: 4
+2020-10-18 13:19:33.8752 INFO Authors - GetAuthor: Successfully got record with id:4
+2020-10-18 13:19:34.9215 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:34.9215 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:35.8734 INFO Authors - GetAuthor: Attempted Get Author with id: 6
+2020-10-18 13:19:35.8734 INFO Authors - GetAuthor: Successfully got record with id:6
+2020-10-18 13:19:36.7346 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:36.7346 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:37.5572 INFO Authors - GetAuthor: Attempted Get Author with id: 9
+2020-10-18 13:19:37.5643 INFO Authors - GetAuthor: Successfully got record with id:9
+2020-10-18 13:19:38.4469 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:38.4537 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:43.1710 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 13:19:43.1710 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 13:19:46.2855 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:46.2855 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:47.2845 INFO Authors - GetAuthor: Attempted Get Author with id: 3
+2020-10-18 13:19:47.2845 INFO Authors - GetAuthor: Successfully got record with id:3
+2020-10-18 13:19:48.1045 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:48.1111 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:49.0101 INFO Authors - GetAuthor: Attempted Get Author with id: 5
+2020-10-18 13:19:49.0199 INFO Authors - GetAuthor: Successfully got record with id:5
+2020-10-18 13:19:53.8648 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:53.8648 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:54.8624 INFO Authors - GetAuthor: Attempted Get Author with id: 6
+2020-10-18 13:19:54.8624 INFO Authors - GetAuthor: Successfully got record with id:6
+2020-10-18 13:19:55.8517 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:55.8583 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:56.7678 INFO Authors - GetAuthor: Attempted Get Author with id: 9
+2020-10-18 13:19:56.7678 INFO Authors - GetAuthor: Successfully got record with id:9
+2020-10-18 13:19:58.3127 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:19:58.3127 INFO Authors - GetAuthors: Successful
+2020-10-18 13:19:59.2762 INFO Authors - GetAuthor: Attempted Get Author with id: 2
+2020-10-18 13:19:59.2819 INFO Authors - GetAuthor: Successfully got record with id:2
+2020-10-18 13:20:03.6173 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:20:03.6173 INFO Authors - GetAuthors: Successful
+2020-10-18 13:20:04.4373 INFO Authors - GetAuthor: Attempted Get Author with id: 3
+2020-10-18 13:20:04.4373 INFO Authors - GetAuthor: Successfully got record with id:3
+2020-10-18 13:20:05.5192 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:20:05.5192 INFO Authors - GetAuthors: Successful
+2020-10-18 13:20:15.8509 INFO Authors - GetAuthor: Attempted Get Author with id: 3
+2020-10-18 13:20:15.8509 INFO Authors - GetAuthor: Successfully got record with id:3
+2020-10-18 13:20:20.3443 INFO Authors - GetAuthors: Attempted call
+2020-10-18 13:20:20.3443 INFO Authors - GetAuthors: Successful
