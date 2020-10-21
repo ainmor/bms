@@ -15,6 +15,64 @@
           "lib/netstandard2.1/Blazored.LocalStorage.dll": {}
         }
       },
+      "Blazored.Toast/3.1.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.4",
+          "Microsoft.AspNetCore.Components.Web": "3.1.4",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/Blazored.Toast.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Blazored.Toast.dll": {}
+        },
+        "build": {
+          "buildTransitive/Blazored.Toast.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Blazored.Toast.props": {}
+        }
+      },
+      "BlazorFileUploader/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.0",
+          "Microsoft.AspNetCore.Components.Web": "3.1.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/BlazorFileUploader.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/BlazorFileUploader.dll": {}
+        },
+        "build": {
+          "buildTransitive/BlazorFileUploader.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/BlazorFileUploader.props": {}
+        }
+      },
+      "BlazorInputFile/0.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.0-preview3.19555.2",
+          "Microsoft.AspNetCore.Components.Web": "3.1.0-preview3.19555.2"
+        },
+        "compile": {
+          "lib/netstandard2.1/BlazorInputFile.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/BlazorInputFile.dll": {}
+        },
+        "build": {
+          "buildTransitive/BlazorInputFile.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/BlazorInputFile.props": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/3.1.6": {
         "type": "package",
         "dependencies": {
@@ -241,6 +299,60 @@
         "blazored.localstorage.nuspec",
         "icon.png",
         "lib/netstandard2.1/Blazored.LocalStorage.dll"
+      ]
+    },
+    "Blazored.Toast/3.1.2": {
+      "sha512": "EDwxOEeqcT8vNIqn+sCYv/Maouu223UfMCuBxtlUpqPsVHql6OmhZgpo3j9GssIkGU1utKKdi4NaAoUoXDKWSQ==",
+      "type": "package",
+      "path": "blazored.toast/3.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blazored.toast.3.1.2.nupkg.sha512",
+        "blazored.toast.nuspec",
+        "build/Blazored.Toast.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/Blazored.Toast.props",
+        "buildTransitive/Blazored.Toast.props",
+        "lib/netstandard2.0/Blazored.Toast.dll",
+        "staticwebassets/blazored-toast.css",
+        "staticwebassets/blazored-toast.min.css"
+      ]
+    },
+    "BlazorFileUploader/1.0.0": {
+      "sha512": "YvI91+QJNgu3h+hX09pn58THPFLGKK+Phups5k3L3lP2VV24LJGxBH0dnD9twdgmU0ufeglis/tKZVw0S4T9uA==",
+      "type": "package",
+      "path": "blazorfileuploader/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blazorfileuploader.1.0.0.nupkg.sha512",
+        "blazorfileuploader.nuspec",
+        "build/BlazorFileUploader.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/BlazorFileUploader.props",
+        "buildTransitive/BlazorFileUploader.props",
+        "icons8-upload-64.png",
+        "lib/netcoreapp3.1/BlazorFileUploader.dll",
+        "staticwebassets/inputfile.js"
+      ]
+    },
+    "BlazorInputFile/0.2.0": {
+      "sha512": "wsPTwoA9fkHOxjEh0W0brNeTaVBaMCFwfBLehbRhfW+RzlIrYtlJ5qFpT5f377Ej6ELk+xeoUrkDBx9c8JF7DQ==",
+      "type": "package",
+      "path": "blazorinputfile/0.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blazorinputfile.0.2.0.nupkg.sha512",
+        "blazorinputfile.nuspec",
+        "build/BlazorInputFile.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/BlazorInputFile.props",
+        "buildTransitive/BlazorInputFile.props",
+        "lib/netstandard2.0/BlazorInputFile.dll",
+        "lib/netstandard2.1/BlazorInputFile.dll",
+        "staticwebassets/inputfile.js"
       ]
     },
     "Microsoft.AspNetCore.Authorization/3.1.6": {
@@ -673,7 +785,10 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "BlazorFileUploader >= 1.0.0",
+      "BlazorInputFile >= 0.2.0",
       "Blazored.LocalStorage >= 3.0.0",
+      "Blazored.Toast >= 3.1.2",
       "Newtonsoft.Json >= 12.0.3",
       "System.IdentityModel.Tokens.Jwt >= 6.8.0"
     ]
@@ -721,9 +836,21 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "BlazorFileUploader": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "BlazorInputFile": {
+            "target": "Package",
+            "version": "[0.2.0, )"
+          },
           "Blazored.LocalStorage": {
             "target": "Package",
             "version": "[3.0.0, )"
+          },
+          "Blazored.Toast": {
+            "target": "Package",
+            "version": "[3.1.2, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",

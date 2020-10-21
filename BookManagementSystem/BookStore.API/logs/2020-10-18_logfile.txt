@@ -256,3 +256,125 @@
 2020-10-18 13:20:15.8509 INFO Authors - GetAuthor: Successfully got record with id:3
 2020-10-18 13:20:20.3443 INFO Authors - GetAuthors: Attempted call
 2020-10-18 13:20:20.3443 INFO Authors - GetAuthors: Successful
+2020-10-18 14:23:06.8104 INFO Users - Login: Login Attempt from user: taj@bookstore.com
+2020-10-18 14:23:06.9909 INFO Users - Login: taj@bookstore.com Successfully Authenticated
+2020-10-18 14:23:06.9909 INFO Users - Login: Generating Token
+2020-10-18 14:23:31.2536 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 14:23:31.3133 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 14:23:31.3133 INFO Users - Login: Generating Token
+2020-10-18 14:23:33.2208 INFO Authors - GetAuthors: Attempted call
+2020-10-18 14:23:33.3605 INFO Authors - GetAuthors: Successful
+2020-10-18 14:23:41.6176 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:23:41.6478 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 14:27:05.7326 INFO Authors - GetAuthors: Attempted call
+2020-10-18 14:27:05.7326 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:27:06.0779 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 14:27:06.0779 INFO Authors - GetAuthors: Successful
+2020-10-18 14:27:07.7300 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:27:07.7478 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 14:27:28.3868 INFO Authors - GetAuthors: Attempted call
+2020-10-18 14:27:28.4007 INFO Authors - GetAuthors: Successful
+2020-10-18 14:27:30.1172 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:27:30.1261 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 14:27:42.2432 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:27:42.2533 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 14:27:45.0657 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:27:45.0657 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 14:27:49.2510 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:27:49.2638 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 14:27:53.6714 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:27:53.6714 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 14:29:41.2170 INFO Authors - GetAuthors: Attempted call
+2020-10-18 14:29:41.5386 INFO Authors - GetAuthors: Successful
+2020-10-18 14:29:43.0281 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 14:29:43.0802 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:30:59.0608 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:30:59.2801 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:31:04.1686 INFO Books - GetBook: Attempted call for id: 4
+2020-10-18 15:31:04.1952 INFO Books - GetBook: Successfully got record with id: 4
+2020-10-18 15:31:58.7655 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:31:59.0211 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:32:00.7036 INFO Books - GetBook: Attempted call for id: 4
+2020-10-18 15:32:00.7368 INFO Books - GetBook: Successfully got record with id: 4
+2020-10-18 15:33:01.9671 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:33:01.9877 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:33:03.7455 INFO Books - GetBook: Attempted call for id: 5
+2020-10-18 15:33:03.7612 INFO Books - GetBook: Successfully got record with id: 5
+2020-10-18 15:34:14.0296 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:34:14.2601 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:34:17.8950 INFO Books - GetBook: Attempted call for id: 4
+2020-10-18 15:34:17.9264 INFO Books - GetBook: Successfully got record with id: 4
+2020-10-18 15:34:26.1589 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:34:26.1589 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:36:16.8739 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:36:17.1278 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:36:18.6961 INFO Books - GetBook: Attempted call for id: 4
+2020-10-18 15:36:18.7414 INFO Books - GetBook: Successfully got record with id: 4
+2020-10-18 15:36:22.9272 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:36:22.9360 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:36:24.2908 INFO Books - GetBook: Attempted call for id: 5
+2020-10-18 15:36:24.3025 INFO Books - GetBook: Successfully got record with id: 5
+2020-10-18 15:36:30.5547 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:36:30.5634 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:36:31.8847 INFO Books - GetBook: Attempted call for id: 5
+2020-10-18 15:36:31.8978 INFO Books - GetBook: Successfully got record with id: 5
+2020-10-18 15:36:32.9547 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:36:32.9547 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:36:33.9331 INFO Books - GetBook: Attempted call for id: 4
+2020-10-18 15:36:33.9407 INFO Books - GetBook: Successfully got record with id: 4
+2020-10-18 15:36:36.6528 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:36:36.6610 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:36:39.2437 INFO Books - GetBook: Attempted call for id: 5
+2020-10-18 15:36:39.2538 INFO Books - GetBook: Successfully got record with id: 5
+2020-10-18 15:36:40.5589 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:36:40.5686 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:36:41.5483 INFO Books - GetBook: Attempted call for id: 4
+2020-10-18 15:36:41.5483 INFO Books - GetBook: Successfully got record with id: 4
+2020-10-18 15:36:42.5654 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:36:42.5654 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 15:36:43.5277 INFO Books - GetBook: Attempted call for id: 5
+2020-10-18 15:36:43.5372 INFO Books - GetBook: Successfully got record with id: 5
+2020-10-18 15:36:44.5000 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 15:36:44.5000 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 16:34:45.3416 INFO Users - Login: Login Attempt from user: admin@bookstore.com
+2020-10-18 16:34:45.4365 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-10-18 16:34:57.0586 INFO Users - Login: Login Attempt from user: admin@bookstore.com
+2020-10-18 16:34:57.0735 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-10-18 16:34:58.8890 INFO Users - Login: Login Attempt from user: admin@bookstore.com
+2020-10-18 16:34:58.8890 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-10-18 16:35:10.8177 INFO Users - Login: Login Attempt from user: meghana@bookstore.com
+2020-10-18 16:35:10.9712 INFO Users - Login: meghana@bookstore.com Successfully Authenticated
+2020-10-18 16:35:10.9712 INFO Users - Login: Generating Token
+2020-10-18 16:35:13.3040 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:35:13.4384 INFO Authors - GetAuthors: Successful
+2020-10-18 16:35:14.6611 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 16:35:14.6895 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 16:35:21.8089 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:35:21.8176 INFO Authors - GetAuthors: Successful
+2020-10-18 16:40:58.9866 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 16:40:58.9866 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:40:59.2543 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 16:40:59.2543 INFO Authors - GetAuthors: Successful
+2020-10-18 16:41:00.9603 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:41:00.9787 INFO Authors - GetAuthors: Successful
+2020-10-18 16:42:12.7977 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 16:42:13.0600 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 16:42:14.9921 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:42:15.0602 INFO Authors - GetAuthors: Successful
+2020-10-18 16:54:54.1694 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 16:54:54.3568 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 16:54:55.7318 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:54:55.7857 INFO Authors - GetAuthors: Successful
+2020-10-18 16:57:03.5933 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:57:03.6090 INFO Authors - GetAuthors: Successful
+2020-10-18 16:57:35.3964 INFO Authors - Create: Create Attempted
+2020-10-18 16:57:37.6925 INFO Authors - Create: Author Created
+2020-10-18 16:57:37.9195 INFO Authors - Create: BookStore.API.Data.Author
+2020-10-18 16:57:43.3607 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:57:43.3607 INFO Authors - GetAuthors: Successful
+2020-10-18 16:57:47.5447 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 16:57:47.5632 INFO Books - GetBooks: Successfully got all Books
+2020-10-18 16:57:48.6519 INFO Authors - GetAuthors: Attempted call
+2020-10-18 16:57:48.6608 INFO Authors - GetAuthors: Successful
+2020-10-18 16:58:46.2722 INFO Books - GetBooks: Attempted Get All Books
+2020-10-18 16:58:46.2867 INFO Books - GetBooks: Successfully got all Books

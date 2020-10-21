@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Lye+WdRIjrQSnQS8Z+Rjo08FUS8YFzjMZj/mqJjVbb0CjnD2a3v5gtrLrPKHjO6m1sb5uXaGYDmIu0ir/P2pZA==",
+  "dgSpecHash": "Goa8KQ8UdojNMr7agztxCrQoxIJXNI8GGzQ+OF3+pW+QeKNvsv0/0yp8pUss19wjdvWbthOqh+bI37zF2Nrj4Q==",
   "success": true,
   "projectFilePath": "D:\\programming\\aspnet\\bmsaspnetblazor\\BookManagementSystem\\BookStore.UI\\BookStore.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AinMor\\.nuget\\packages\\blazored.localstorage\\3.0.0\\blazored.localstorage.3.0.0.nupkg.sha512",
+    "C:\\Users\\AinMor\\.nuget\\packages\\blazored.toast\\3.1.2\\blazored.toast.3.1.2.nupkg.sha512",
+    "C:\\Users\\AinMor\\.nuget\\packages\\blazorfileuploader\\1.0.0\\blazorfileuploader.1.0.0.nupkg.sha512",
+    "C:\\Users\\AinMor\\.nuget\\packages\\blazorinputfile\\0.2.0\\blazorinputfile.0.2.0.nupkg.sha512",
     "C:\\Users\\AinMor\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\AinMor\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
     "C:\\Users\\AinMor\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.6\\microsoft.aspnetcore.components.analyzers.3.1.6.nupkg.sha512",
